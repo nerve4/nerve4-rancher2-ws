@@ -13,13 +13,13 @@ Prep scripts for bare-metal install of Rancher 2.7
 
 ## Useful Docs
 
-[Rancher 2.7](https://ranchermanager.docs.rancher.com/getting-started/overview)
-[What’s New in Rancher 2.7](https://www.suse.com/c/rancher_blog/whats-new-in-rancher-2-7/)
-[RKE2](https://docs.rke2.io/)
-[Rancher ArtifactHUB](https://artifacthub.io/packages/helm/rancher-stable/rancher)
-[Rancher Extensions](https://ranchermanager.docs.rancher.com/integrations-in-rancher/rancher-extensions)
-[Opening Ports with firewalld](https://ranchermanager.docs.rancher.com/how-to-guides/advanced-user-guides/open-ports-with-firewalld)
-[Rancher SELinux](https://ranchermanager.docs.rancher.com/v2.6/reference-guides/rancher-security/selinux-rpm/about-rancher-selinux)
+- [Rancher 2.7](https://ranchermanager.docs.rancher.com/getting-started/overview)
+- [What’s New in Rancher 2.7](https://www.suse.com/c/rancher_blog/whats-new-in-rancher-2-7/)
+- [RKE2](https://docs.rke2.io/)
+- [Rancher ArtifactHUB](https://artifacthub.io/packages/helm/rancher-stable/rancher)
+- [Rancher Extensions](https://ranchermanager.docs.rancher.com/integrations-in-rancher/rancher-extensions)
+- [Opening Ports with firewalld](https://ranchermanager.docs.rancher.com/how-to-guides/advanced-user-guides/open-ports-with-firewalld)
+- [Rancher SELinux](https://ranchermanager.docs.rancher.com/v2.6/reference-guides/rancher-security/selinux-rpm/about-rancher-selinux)
 
 
 ## Maintainer Information
