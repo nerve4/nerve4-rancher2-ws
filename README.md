@@ -16,9 +16,11 @@ This workshop is about Rancher 2 - currently 2.7 - Rancher 2 based services and 
 
 ## Introduction
 
-- [Rancher 2.7: Install and Uninstall](src/step-01-install-uninstall/README.md)
+  - [Rancher 2.7: Install and Uninstall](src/step-01-install-uninstall/README.md)
 
-## Beginner - TBC
+## Beginner
+
+  - [Rancher 2.7: Backup and Restore](src/step-02-backup-rancher-cluster/README.md)
 
 ## Intermediate - TBC
 
