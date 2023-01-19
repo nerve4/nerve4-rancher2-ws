@@ -21,7 +21,9 @@ This workshop is about Rancher 2 - currently 2.7 - Rancher 2 based services and 
 ## Beginner
 
   - [Rancher 2.7: Backup and Restore](src/step-02-backup-rancher-cluster/README.md)
+  - [Rancher 2.7 - Setup Authentication Provider - Keycloak (OIDC)](src/step-03-auth-with-keycloak-oidc/README.md)
 
 ## Intermediate - TBC
+
 
 ## Advanced - TBC
